@@ -1,0 +1,5 @@
+echo "Hai"
+echo "How are You?"
+uptime
+pwd
+
